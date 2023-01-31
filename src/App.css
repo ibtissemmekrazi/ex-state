@@ -1,0 +1,22 @@
+.box{
+    display: flex;
+    background-color: antiquewhite;
+    width: 100%;
+    justify-content: space-around;
+    margin-top: auto;
+
+}
+.bt{
+    
+    background-color: bisque;
+    color:beige;
+    border-radius: 20px;
+
+
+
+}
+.btdiv{
+display: flex;
+justify-content: center;
+
+}
